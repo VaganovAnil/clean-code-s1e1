@@ -42,15 +42,15 @@
 }
 
 .task-list {
-    margin:0;
+    margin: 0;
     padding: 0px;
 }
 
 li, h3 {
-    list-style:none;
+    list-style: none;
 }
 .task-item-enter,.btn {
-    outline:none;
+    outline: none;
 }
 
 .btn {
@@ -150,14 +150,14 @@ input#new-task-enter {
 
 /* Edit Task */
 .task-item .task-item-enter[type=text] {
-    display:none
+    display: none;
 }
 
 .edit-mode .task-item-enter[type=text] {
-    display:inline-block;
-    width:224px
+    display: inline-block;
+    width: 224px
 }
 
 .edit-mode .task-item-label {
-    display:none;
+    display: none;
 }
