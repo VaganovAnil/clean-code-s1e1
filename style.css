@@ -21,7 +21,8 @@
 }
 
 @media (max-width:768px) {
-.message { text-align: center;
+.message { 
+    text-align: center;
 }
 }
 
@@ -49,7 +50,8 @@
 li, h3 {
     list-style: none;
 }
-.task-item-enter,.btn {
+.task-item-enter,
+.btn {
     outline: none;
 }
 
@@ -111,7 +113,6 @@ input#new-task-enter {
     overflow: hidden;
     padding: 20px 0;
     border-bottom: 1px solid #eee;
-
     display: flex;
     justify-content: space-between;
     align-items: center;
