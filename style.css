@@ -104,7 +104,7 @@ li, h3 {
     margin: 0 0 20px;
 }
 
-input#new-task-enter {
+#new-task-id-to-enter {
     width: 318px;
 }
 
@@ -129,7 +129,7 @@ input#new-task-enter {
     width: 226px;
 }
 
-.btn.delete:hover {
+.btn-delete:hover {
     color: #cf2323;
 }
 
